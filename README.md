@@ -1,1 +1,1 @@
-# FastAPI-MongoDB-React
+# WebScraper and OpenAI will be used
