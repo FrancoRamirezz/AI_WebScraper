@@ -1,1 +1,1 @@
-# WebScraper and OpenAI will be used
+# WebScraper, Langchain and OpenAI
