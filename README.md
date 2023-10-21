@@ -1,3 +1,4 @@
+
 # WebScraper, Langchain and OpenAI
 # Installations:
 pip install openai,
@@ -9,3 +10,4 @@ from langchain.document_loaders import AsyncChromiumLoader
 from langchain.document_transformers import BeautifulSoupTransformer
 from langchain.document_loaders import AsyncHtmlLoader
 from langchain.document_loaders import WebBaseLoader
+# Common Problems
