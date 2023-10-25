@@ -11,4 +11,4 @@ from langchain.document_transformers import BeautifulSoupTransformer
 from langchain.document_loaders import AsyncHtmlLoader
 from langchain.document_loaders import WebBaseLoader
 # Common Problems
-if there is an issue with the event loop, it could be caused by google colab
+if there is an issue with the event loop, it could be caused by Google Colab, but it depends on the environment that you are running on 
