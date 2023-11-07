@@ -20,6 +20,8 @@ async def webScrape():
 # for proxy uses:
 use the following code 
 import request 
+
+
 set_proxies = {
 "https": "http://proxy1.example.com:8080",
 "https": "https://proxy2.example.com:8443"",
