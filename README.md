@@ -14,5 +14,6 @@ from langchain.document_loaders import WebBaseLoader
 if there is an issue with the event loop, it could be caused by Google Colab, but it depends on the environment that you are running on 
 # for proxy uses:
 use the following code
-
+# this will be used to ensure our requests 
+import request 
 
