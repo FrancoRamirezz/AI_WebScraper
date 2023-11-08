@@ -29,3 +29,7 @@ set_proxies = {
 response = requests.get("https://www.example.com", set_proxies=set_proxies)
 print(response.status_code)
 ### the status code will tell us if it was successful or not 
+
+
+# future use: 
+i will try to use streamlit to make a interface and 
