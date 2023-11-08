@@ -1,5 +1,9 @@
-# WebScraper, Langchain and OpenAI
-
+# WebScraper, Langchain and OpenAI 🥇
+## Table of Contents 🤖
+- [Installations](#installations)
+- [Common problems](#problems)
+- [For proxy users](#proxy users)
+- [Future use](#Future)
 ## Installations 🤖:
 pip install openai,
 pip install langchain,
@@ -11,11 +15,11 @@ from langchain.document_transformers import BeautifulSoupTransformer
 from langchain.document_loaders import AsyncHtmlLoader
 from langchain.document_loaders import WebBaseLoader
 
-# Common issues 🎮
+## Common issues 🎮
 if there is an issue with the event loop, it could be caused by Google Colab, but it depends on the environment that you are running on.
 For example, "async" works well in front of a function
 
-# for proxy uses:
+## for proxy uses 💻 :
 use the following code 
 import request 
 
@@ -25,8 +29,8 @@ set_proxies = {
 }
 response = requests.get("https://www.example.com", set_proxies=set_proxies)
 print(response.status_code)
-### the status code will tell us if it was successful or not 
 
 
-# future use: 
-i will try to use Streamlit to make an interface.
+
+## future use: 
+ 
