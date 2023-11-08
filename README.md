@@ -5,6 +5,7 @@
 - [For proxy users](#proxy)
 - [Future use](#Future)
 ## Installations 🤖:
+```bash
 pip install openai,
 pip install langchain,
 pip install playwright
