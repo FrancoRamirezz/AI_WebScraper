@@ -1,6 +1,6 @@
 # WebScraper, Langchain and OpenAI
 
-# Installations:
+## Installations 🤖:
 pip install openai,
 pip install langchain,
 pip install playwright
