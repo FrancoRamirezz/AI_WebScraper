@@ -2,7 +2,7 @@
 ## Table of Contents 🤖
 - [Installations](#installations)
 - [Common problems](#problems)
-- [For proxy users](#proxy users)
+- [For proxy users](#proxy)
 - [Future use](#Future)
 ## Installations 🤖:
 pip install openai,
