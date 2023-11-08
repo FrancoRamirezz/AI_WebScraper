@@ -1,7 +1,6 @@
 # WebScraper, Langchain and OpenAI
 
 ## Installations 🤖:
-```bash
 pip install openai,
 pip install langchain,
 pip install playwright
@@ -14,10 +13,7 @@ from langchain.document_loaders import WebBaseLoader
 
 # Common issues 🎮
 if there is an issue with the event loop, it could be caused by Google Colab, but it depends on the environment that you are running on.
-For example,
-```bash
-async def webScrape():
-  pass
+For example, "async" works well in front of a function
 
 # for proxy uses:
 use the following code 
