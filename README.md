@@ -21,7 +21,6 @@ async def webScrape():
 use the following code 
 import request 
 
-
 set_proxies = {
 "https": "http://proxy1.example.com:8080",
 "https": "https://proxy2.example.com:8443"",
@@ -32,4 +31,4 @@ print(response.status_code)
 
 
 # future use: 
-i will try to use streamlit to make a interface and 
+i will try to use Streamlit to make an interface.
