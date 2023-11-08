@@ -35,7 +35,7 @@ For the interface, it might be wise to use gradio or streamlit. If you want to u
 apt-get update
 !apt-get install -y docker.io
 !sudo dockerd &
-#!docker pull hello-world
-#!docker run hello-world
+!docker pull hello-world
+!docker run hello-world
 
  
