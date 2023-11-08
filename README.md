@@ -31,7 +31,7 @@ response = requests.get("https://www.example.com", set_proxies=set_proxies)
 print(response.status_code)
 ## future use 🔮: 
 For the interface, it might be wise to use gradio or streamlit. If you want to use Docker here are the commands needed to run on Google Colab
-'''bash
+```bash
 apt-get update
 !apt-get install -y docker.io
 !sudo dockerd &
