@@ -1,4 +1,4 @@
-# WebScraper, Langchain and OpenAI 🥇
+# WebScraper, Langchain, and OpenAI 🥇
 ## Table of Contents 🤖
 - [Installations](#installations)
 - [Common problems](#problems)
